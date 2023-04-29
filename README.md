@@ -19,7 +19,6 @@ Program ini juga menyimpan riwayat perubahan kontak yang dilakukan oleh pengguna
 # STRUKTUR PROJECT
 Program kami merupakan sebuah aplikasi untuk mengelola daftar kontak. Aplikasi ini menggunakan MySQL database untuk menyimpan informasi tentang pengguna dan kontak. Struktur project kami dimulai dari modul atau library python yang dilanjutkan dengan beberapa fungsi. Berikut beberapa library Python yang digunakan dalam program ini antara lain:
 
-######
 Os              : digunakan untuk melakukan operasi sistem, seperti membersihkan layar konsol.
 Time            : digunakan untuk menambahkan jeda waktu dalam program.
 Pwinput         : digunakan untuk memasukkan password pengguna secara aman.
